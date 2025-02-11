@@ -55,6 +55,12 @@
         "path": "dist/react-sankey-chartjs.esm.js",
         "limit": "10 KB"
       }
-    ]
-  }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Deaniebean/react-sankey-chartjs/"
+      },
+      "author": "deaniebean",
+      "license": "MIT"
+    }
   
