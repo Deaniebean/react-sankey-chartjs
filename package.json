@@ -62,5 +62,11 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Deaniebean/react-sankey-chartjs/"
-    }
+    },
+    "keywords": [
+        "react",
+        "chart.js",
+        "chart",
+        "sankey"
+      ]
 }
